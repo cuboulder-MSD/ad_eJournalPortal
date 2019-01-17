@@ -1,6 +1,6 @@
 var browzine = {
-  api: "https://api.thirdiron.com/public/v1/libraries/XXXX",
-  apiKey: "ENTER API KEY",
+  api: "https://api.thirdiron.com/public/v1/libraries/105",
+  apiKey: "f735118e-2994-4aad-ba1b-56604b8cdbd2",
   journalBrowZineWebLinkText: "View Journal in BrowZine",
 };
  
