@@ -1,4 +1,4 @@
-# eJournalPortal
+# A-Z Journals
 Part of 360 Core Services
 
 eJournal Portal css:
