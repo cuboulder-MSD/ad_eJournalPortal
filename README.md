@@ -15,4 +15,5 @@ To make updates:
 <ol><li>Go to the <a href="https://clientcenter.serialssolutions.com/CC/Login/Default.aspx">360 Link Administration Console.</a></li>
   <li>Go to E-Journal Portal 2.0</li>
   <li>Go to Branding Options</li>
-    <li>These boxes control the display for the A-Z Journals page. The css file is on the top, and the js file is on the bottom.</li></ol>
+    <li>These boxes control the display for the A-Z Journals page. The css file is on the top, and the js file is on the bottom.</li>
+  <li>Record changes on <a href="https://conifer.rhizome.org/cuboulder_libera">conifer.org</a></li></ol>
