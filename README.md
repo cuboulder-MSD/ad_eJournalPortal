@@ -16,5 +16,4 @@ To make updates:
   <li>Go to E-Journal Portal 2.0</li>
   <li>Go to Branding Options</li>
     <li>These boxes control the display for the A-Z Journals page. The css file is on the top, and the js file is on the bottom. The HTML files are in between.</li>
- <li>If you do any HTML changes, make sure to then go and copy and paste these changes to the E-Journal Portal tab in the Branding Options section. Do the same with the files if the file locations change. This section controls the citation linker page.</li>
   <li>Record changes on the <a href="https://docs.google.com/document/d/1tUjRhy6rih3uO4LhuL2o63uUrEuG4FqG8lBeOzNHqBw/edit#">change log</a> and  <a href="https://conifer.rhizome.org/cuboulder_libera">conifer.org</a></li></ol>
